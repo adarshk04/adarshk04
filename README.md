@@ -1,15 +1,23 @@
 🌟About Me
       -👋 Hi, I’m ADARSH.K ( @adarshk04 )
-      -🎓 I’m currently studying in Providence College of Engineering 
-      - 🌱 I’m learning Computer science and Engineering in Artificial Intelligence...
-      - 💡 I’m interested in AI and also in Ui/Ux...
+      -🎓 I’m currently pursuing my B.Tech degreen in Computer Science and Engineering with specialization in Artificial Intelligence at Providence College of                  Engineering and School of Business, Chengannur
 - 📫 How to reach me :
                  -  🔗   LinkedIn  https://www.linkedin.com/in/adarsh-k-2b680325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ...
-                 -  📧   email     adarshK2k04@gmail.com
+                 -  📧   email     adarsh2k004@gmail.com
 - 😄 Pronouns: he/him...
-- ⚡ Fun fact: love to learn ...
+-CAREER OBJECTIVE :
+      Final-year B.Tech student in Computer Science and Engineering with a strong foundation in programming,
+      data analysis, and problem-solving. Seeking an entry-level opportunity in a dynamic and
+      growth-oriented organization where I can apply my technical knowledge, adapt to emerging technologies,
+      and contribute to the development of efficient, scalable, and innovative solutions. Committed to
+      continuous learning, teamwork, and delivering high-quality results while adding value to organizational
+      objectives.
 
 🛠️ Tech Stack
-      -Languages: Python,Java,C
-      -Tools: Figma
+      Programming Language        : Python, C
+      Data Analysis               : NumPy, Pandas, Matplotlib
+      Machine Learning Libraries  : Tensorflow, Keras
+      Design Tools                : Figma, Canva
+      RPA Tool                    : Uipath
+      Software Tools              : n8n, Xilinx Vivado, Modelslim , Arduino IDE
     
