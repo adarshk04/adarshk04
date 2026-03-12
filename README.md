@@ -2,7 +2,7 @@
       -👋 Hi, I’m ADARSH.K ( @adarshk04 )
       -🎓 I’m currently pursuing my B.Tech degreen in Computer Science and Engineering with specialization in Artificial Intelligence at Providence College of                  Engineering and School of Business, Chengannur
 - 📫 How to reach me :
-                 -  🔗   LinkedIn  https://www.linkedin.com/in/adarsh-k-2b680325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ...
+                 -  🔗   LinkedIn  www.linkedin.com/in/adarshk-2k04
                  -  📧   email     adarsh2k004@gmail.com
 - 😄 Pronouns: he/him...
 -CAREER OBJECTIVE :
